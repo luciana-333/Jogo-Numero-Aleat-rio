@@ -1,1 +1,1 @@
-# Jogo-Numero-Aleat-rio
+# Jogo-Numero-Aleatorio
